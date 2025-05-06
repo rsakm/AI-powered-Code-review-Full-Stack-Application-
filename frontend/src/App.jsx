@@ -230,7 +230,7 @@ function App() {
             <p>© {new Date().getFullYear()} CodeReviewPro • Powered by Gemini AI</p>
           </div>
           <div className="footer-right">
-            <a href="#" className="footer-link">About</a>
+            <a href="https://rajshree.online" target='_blank' className="footer-link">About</a>
             <a href="#" className="footer-link">Terms</a>
             <a href="#" className="footer-link">Privacy</a>
             <a href="#" className="footer-link">Help</a>
