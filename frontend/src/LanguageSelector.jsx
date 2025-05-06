@@ -14,6 +14,9 @@ function LanguageSelector({ onLanguageChange }) {
     { id: 'ruby', name: 'Ruby' },
     { id: 'go', name: 'Go' },
     { id: 'typescript', name: 'TypeScript' },
+    { id: 'c', name: 'C' },
+    { id: 'c++', name: 'C++' },
+    {id:'other', name: 'Other'}
   ]
   
   const handleLanguageSelect = (lang) => {
