@@ -1,6 +1,8 @@
 
 # CodeReview Pro 🚀
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://coderreviewpro.netlify.app/)
+
 CodeReview Pro is a modern, AI-powered code review web application built with the MERN stack and integrated with **Google Gemini**. It allows developers to upload or paste code, select language preferences, switch between light/dark themes, and get intelligent, real-time code feedback — including reviews, suggestions, and enhancements.
 
 ---
@@ -19,10 +21,10 @@ CodeReview Pro is a modern, AI-powered code review web application built with th
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Tailwind CSS (or similar)
+- **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
 - **AI Integration**: Google Gemini API
-- **Hosting**: Vercel / Render / Firebase
+- **Hosting**: Netlify (Frontend), Render (Backend)
 
 ---
 
@@ -72,8 +74,9 @@ cd frontend && npm install
 Create a `.env` file in the backend root and add:
 
 ```
-MONGO_URI=your_mongodb_uri
 GEMINI_API_KEY=your_gemini_api_key
+PORT=4000
+
 ```
 
 ### 4. Run the application
@@ -87,7 +90,15 @@ npm run dev
 
 ## 📸 Screenshots
 
-> *(Add screenshots or screen recordings of the app in action)*
+### Home Page
+![Home](./preview/home.png)
+
+## Code analyzing interface
+![Code analyzing](./preview/analyzing.png)
+
+### Code Review Interface
+![Review](./preview/result.png)
+
 
 ---
 
@@ -111,6 +122,12 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 MIT License
 
 ---
+
+
+
+## 🌐 Live Demo
+Visit the live project here:
+[![🔗 CodeReview Pro Live](https://img.shields.io/badge/Live-Demo-brightgreen)](https://coderreviewpro.netlify.app/)
 
 ## 🧠 Credits
 
