@@ -116,12 +116,12 @@ npm run dev
 Contributions are welcome! Feel free to fork the repo and submit a PR.
 
 ---
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![rsakm](https://img.shields.io/badge/Author-rsakm-blue)](https://github.com/rsakm)
 
 ## 📄 License
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) © [rsakm](https://github.com/rsakm)
 
 
 ---
