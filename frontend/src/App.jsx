@@ -34,7 +34,7 @@ function App() {
     setReview('')
     
     try {
-      const response = await fetch('http://localhost:4000/ai/get-review', {
+      const response = await fetch('https://code-review-backend-ir8t.onrender.com/ai/get-review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
