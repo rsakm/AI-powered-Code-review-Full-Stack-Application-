@@ -15,7 +15,7 @@ CodeReview Pro is a modern, AI-powered code review web application built with th
 - ⚙️ **User Settings Panel**
 - 📱 **Fully Responsive UI**
 - 🔒 **Secure Backend with Express.js**
-- ☁️ **MongoDB Atlas for Persistent Storage**
+<!-- - ☁️ **MongoDB Atlas for Persistent Storage** -->
 
 ---
 
