@@ -21,7 +21,7 @@ CodeReview Pro is a modern, AI-powered code review web application built with th
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Tailwind CSS
+- **Frontend**: React, CSS
 - **Backend**: Node.js, Express
 - **AI Integration**: Google Gemini API
 - **Hosting**: Netlify (Frontend), Render (Backend)
@@ -119,7 +119,10 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 
 ## 📄 License
 
-MIT License
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
